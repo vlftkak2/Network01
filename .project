@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>webapp</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/webapp</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
